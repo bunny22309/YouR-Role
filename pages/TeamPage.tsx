@@ -50,7 +50,7 @@ const TeamPage: React.FC = () => {
             <FounderCard 
               name="Sachin Kumar" 
               title="Founder & Chief Role-Model" 
-              image="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=200&h=200&fit=crop&crop=faces"
+              image="hg.jpg"
               description="Sachin's vision is rooted in a simple, powerful economic truth: a nation's progress is the sum of its people's actions. He founded YouR Role with the singular mission to build a progressive India from the ground up, focusing on citizen-led welfare and economic efficiency. His goal is to prove that responsible citizenship is the most potent, untapped driver of national growth."
             />
           </div>
